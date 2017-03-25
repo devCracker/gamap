@@ -359,7 +359,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>No 19, Darmarajar Kovil Street,<br>Sholinganallur,Chennai-119..<br><br><br>\n<strong>Contacts</strong><br>\nEmail: venkat4droid@gmail.com<br>\nPhone: +91 9600003931",
+          "text1": "<br>\n<strong>Contacts</strong><br>\nEmail: venkat4droid@gmail.com<br>\nPhone: +91 9600003931",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Popular Games and Apps</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://play.google.com/store/apps/details?id=com.souga.hitrun&amp;hl=en\" target=\"_blank\">Hit Run</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://play.google.com/store/apps/details?id=com.venkat9994095056.cforbeginners&amp;hl=en\" target=\"_blank\">C for Beginners</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://play.google.com/store/apps/details?id=com.souga.smartandsharp&amp;hl=en\" target=\"_blank\">Quick Quick</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -389,7 +389,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
